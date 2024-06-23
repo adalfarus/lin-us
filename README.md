@@ -26,3 +26,15 @@ To facilitate user adaptation:
 - **Shortcuts**: Translate all Windows productivity shortcuts.
 - **Powertoys**: Offer similar tools like PowerToys but not from the start.
 - **Highly customizable**: Make it highly customizable for advanced users but also really simple for normal people.
+
+## Notice
+I started wanting this after my 5th Ubuntu VM install went up in flames. It just isn't feasible to assume that the average windows user can figure some of this stuff out.
+
+My attempts: 
+- 1-3 Ubuntu update manager throws errors and doesn't install needed utilities.
+- 4 trying to install the newest version of python and uninstalling every package instead.
+- 5 XOrg just stopped working.
+
+I know that my level is not nearly enough to be making something like this but I wanted to write down my vision until I have the time and knowledge to actually do it.
+
+If you are interested and want to, you can of course help. I currently consider Ubuntu LTS and Debian to be the best base distro, due to their extensive documentation and stability.
