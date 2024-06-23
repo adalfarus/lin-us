@@ -24,5 +24,5 @@ To facilitate user adaptation:
 - **Terminal**: If a Windows-only Command is entered, recommend the linux equivalent instead. Make any "cool" Linux commands like deleting the os impossible to run.
 - **OS**: Adopt a system similar to Windows with a SU that the user can't control and then a default admin and user.
 - **Shortcuts**: Translate all Windows productivity shortcuts.
-- **Powertoys**: Offer similar tools like PowerToys but not from the start.
-- **Highly customizable**: Make it highly customizable for advanced users but also really simple for normal people.
+- **Powertoys**: Offer similar tools like PowerToys but they shouldn have to be enabled first.
+- **Highly customizable**: Make it highly customizable for advanced users but also really simple for standard users.
