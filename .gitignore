@@ -1,0 +1,95 @@
+# Compiled object files
+*.o
+*.ko
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Packages
+*.deb
+*.rpm
+*.pkg
+*.tar.gz
+*.tgz
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Node modules
+node_modules/
+
+# Build directories
+/build/
+*.build/
+
+# Custom ISO builds
+*.iso
+
+# Live-build cache and temporary files
+/live-build/
+.cache/
+.cache/*
+.chroot/
+.binary/
+.binary/*
+.source/
+.source/*
+.chroot_stage*
+
+# Debian packaging
+*.debhelper/
+*.dsc
+*.orig.tar.*
+*.debian.tar.*
+.debhelper/
+*.changes
+*.buildinfo
+
+# General
+*.bak
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+*.old
+
+# Custom directories for your project
+/output/
+/custom/
+*.img
+*.iso
